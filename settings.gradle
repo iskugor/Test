@@ -1,0 +1,5 @@
+rootProject.name = "Test"
+include ':app'
+include ':backend'
+include ':database'
+include ':core'
